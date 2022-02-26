@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tally-react-website/static/css/main.fc76af9d.css",
+    "main.js": "/tally-react-website/static/js/main.56a77a32.js",
+    "static/js/529.5099c5fb.chunk.js": "/tally-react-website/static/js/529.5099c5fb.chunk.js",
+    "index.html": "/tally-react-website/index.html",
+    "main.fc76af9d.css.map": "/tally-react-website/static/css/main.fc76af9d.css.map",
+    "main.56a77a32.js.map": "/tally-react-website/static/js/main.56a77a32.js.map",
+    "529.5099c5fb.chunk.js.map": "/tally-react-website/static/js/529.5099c5fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc76af9d.css",
+    "static/js/main.56a77a32.js"
+  ]
+}
